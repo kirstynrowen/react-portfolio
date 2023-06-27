@@ -5,8 +5,8 @@ function Portfolio() {
         <section id="portfolio">
           <h2>Portfolio</h2>
           <div className="project-container">
-            <Project title= 'NoSQL Social Network' image= '../images/nosql.png' deployed= 'https://github.com/kirstynrowen/nosql-social-network'/>
-            <Project title= 'Dew Drop Adventure Interactive Game' image= '../images/dewdrop.png' deployed= 'https://github.com/Kshakely5280/MVC_project'/>
+            <Project title= 'NoSQL Social Network' image= './nosql.png' deployed= 'https://github.com/kirstynrowen/nosql-social-network'/>
+            <Project title= 'Dew Drop Adventure Interactive Game' image= './dewdrop.png' deployed= 'https://github.com/Kshakely5280/MVC_project'/>
           </div>
         </section>
       );
