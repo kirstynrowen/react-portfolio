@@ -1,10 +1,9 @@
 import React from "react";
-import photo from '../images/IMG_7401.JPG'
 
 function About() {
     return(
         <div>
-            <img src={photo} />
+            <img src="../images/photo.jpg" />
             <p>
                 Hi! I'm Kirstyn, an aspiring web developer based in Phoenix, Arizona. 
                 <br />
