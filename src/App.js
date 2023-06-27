@@ -7,6 +7,7 @@ import Contact from './components/contact';
 import About from './components/about'
 import Portfolio from './components/portfolio';
 import Resume from './components/resume';
+import Footer from './components/footer';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           <Route path="/contact" element={<Contact />} />
           <Route path="/resume" element={<Resume />} />
         </Routes>
+        <Footer />
       </div>
     </Router>
   );
