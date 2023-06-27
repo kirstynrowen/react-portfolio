@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kirstynrowen/react-portfolio/static/css/main.b198b456.css",
+    "main.js": "/kirstynrowen/react-portfolio/static/js/main.50f72e32.js",
+    "static/js/787.a2cb61a6.chunk.js": "/kirstynrowen/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "index.html": "/kirstynrowen/react-portfolio/index.html",
+    "main.b198b456.css.map": "/kirstynrowen/react-portfolio/static/css/main.b198b456.css.map",
+    "main.50f72e32.js.map": "/kirstynrowen/react-portfolio/static/js/main.50f72e32.js.map",
+    "787.a2cb61a6.chunk.js.map": "/kirstynrowen/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b198b456.css",
+    "static/js/main.50f72e32.js"
+  ]
+}
