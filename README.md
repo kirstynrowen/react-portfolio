@@ -37,7 +37,7 @@ The following mockup is a screenshot of the deployed application:
 
 ## Deployment
 
-The deployed application can be viewed [here.](https://kirstynrowen.github.io/react-portfolio/)
+The deployed application can be viewed [here.](https://rowen-react-portfolio-a1b1f2532bf6.herokuapp.com/)
 
 ## Questions and Contact Information
 
