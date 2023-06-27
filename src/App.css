@@ -16,7 +16,8 @@ body {
 
 .header {
   font-family: 'Epilogue', sans-serif;
-  background-color: #BDA0BC;
+  background-color: #E1DD8F;
+  padding: 10px 0 0 0;
 }
 
 .nav {
@@ -24,7 +25,7 @@ body {
   display: flex;
   height: 3rem;
   justify-content: center;
-  padding: 20;
+  padding: 20px 0 0 0;
   margin: 0;
   font-weight: bold;
   background-color: #BDA0BC;
@@ -40,9 +41,54 @@ body {
   color: #E1DD8F;
 }
 
+.social-icons {
+  margin-bottom: 10px;
+}
+
+.social-icons a:hover {
+  color: #E1DD8F;
+}
+
+.social-icons a {
+  display: inline-block;
+  margin: 0 10px;
+  font-size: 30px;
+  color: white;
+}
 
 .footer-container {
-  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  color: #4C86A8;
+  background-color: #BDA0BC;
+}
+
+.me {
+  flex: 0 0 25%;
+  max-width: 25%;
+}
+
+.aboutDiv {
+  display: flex;
+  align-items: center;
+  position: relative;
+  justify-content: center;
+  padding: 20px;
+}
+
+.bioText {
+  flex: 1;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  font-size: 25px;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Archivo+Narrow&family=Epilogue:wght@800&display=swap');
