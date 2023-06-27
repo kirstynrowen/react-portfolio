@@ -5,9 +5,9 @@ function About() {
         <div className="aboutDiv">
             <img src="./photo.jpg" className="me"/>
             <p className="bioText">
-                Hi! I'm Kirstyn, an aspiring web developer based in Phoenix, Arizona. 
+                Hi! I'm Kirstyn, an aspiring web developer based in Phoenix, Arizona. 🌵☀️
                 <br /><br />
-                Since 2016, I have worked in Democratic politics, running digital fundraising, advertising, and communications programs for state and federal candidates, PACs, and non-profits.
+                Since 2016, I have worked in Democratic politics, running digital fundraising, advertising, and communications programs for state and federal candidates, PACs, and non-profits. 
                 <br /><br />
                 I'm new to the world of programming and eager to jump right in and continue expanding my skillset!
                 <br /><br />
