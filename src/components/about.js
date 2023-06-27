@@ -1,9 +1,10 @@
 import React from "react";
+import photo from "../images/photo.JPG";
 
 function About() {
     return(
         <div className="aboutDiv">
-            <img src="./photo.jpg" className="me"/>
+            <img alt="me" src={photo} className="me"/>
             <p className="bioText">
                 Hi! I'm Kirstyn, an aspiring web developer based in Phoenix, Arizona. 🌵☀️
                 <br /><br />

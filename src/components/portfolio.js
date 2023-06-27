@@ -1,12 +1,14 @@
 import React from "react";
+import nosql from "../images/nosql.png";
+import dewdrop from '../images/dewdrop.png';
 
 function Portfolio() {
     return (
         <section className="portfolio-container">
           <h2>Portfolio</h2>
           <div className="project-container">
-            <Project title= 'NoSQL Social Network' image= './nosql.png' deployed= 'https://github.com/kirstynrowen/nosql-social-network'/>
-            <Project title= 'Dew Drop Adventure Interactive Game' image= './dewdrop.png' deployed= 'https://github.com/Kshakely5280/MVC_project'/>
+            <Project title= 'NoSQL Social Network' image= {nosql} deployed= 'https://github.com/kirstynrowen/nosql-social-network'/>
+            <Project title= 'Dew Drop Adventure Interactive Game' image= {dewdrop} deployed= 'https://github.com/Kshakely5280/MVC_project'/>
           </div>
         </section>
       );
