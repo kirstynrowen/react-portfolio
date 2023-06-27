@@ -37,7 +37,7 @@ The following mockup is a screenshot of the deployed application:
 
 ## Deployment
 
-The deployed application can be viewed [here.](https://www.loom.com/share/c9c2ec781c3444e592855c80808842c9?sid=49b209d2-2af7-4fd5-b5dd-31a71455769f)
+The deployed application can be viewed [here.](https://kirstynrowen.github.io/react-portfolio/)
 
 ## Questions and Contact Information
 
